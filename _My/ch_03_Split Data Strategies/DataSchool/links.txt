@@ -1,0 +1,4 @@
+unzip External Resources/scikit-learn-videos-master
+or 
+https://github.com/justmarkham/scikit-learn-videos/blob/master/07_cross_validation.ipynb
+https://github.com/justmarkham/scikit-learn-videos/blob/master/08_grid_search.ipynb
