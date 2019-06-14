@@ -1,0 +1,112 @@
+
+
+========================================
+1.What is regression ?
+========================================
+#week2/slides
+#Q/A
+1- https://www.geeksforgeeks.org/ml-linear-regression/
+
+==========================================
+2.What is model training or fit ?
+==========================================
+- find the best relation between input and output
+==========================================
+3.types of regression
+==========================================
+#week2/slides
+#q/a
+1- https://medium.com/datadriveninvestor/regression-in-machine-learning-296caae933ec
+
+==========================================
+4.simple-linear-regression
+==========================================
+#q/a
+1- https://towardsdatascience.com/introduction-to-machine-learning-algorithms-linear-regression-14c4e325882a
+2- https://towardsdatascience.com/simple-linear-regression-in-four-lines-of-code-d690fe4dba84
+==========================================
+5.Multiple Linear Regression
+==========================================
+#q/a
+1- https://acadgild.com/blog/multiple-linear-regression
+2- https://towardsdatascience.com/multiple-linear-regression-in-four-lines-of-code-b8ba26192e84
+3- https://towardsdatascience.com/super-simple-machine-learning-by-me-multiple-linear-regression-part-1-447800e8b624
+4- udacity nano degree 
+
+==========================================
+6.Polynomial_regression
+==========================================
+#-->
+- increasing the n degree of x 
+- so we can fit the data which the straight line can not fit it
+- like curves : quadratic and cubic 
+#q/a
+1- https://en.wikipedia.org/wiki/Polynomial_regression
+2- https://towardsdatascience.com/polynomial-regression-bbe8b9d97491
+3- https://towardsdatascience.com/introduction-to-linear-regression-and-polynomial-regression-f8adc96f31cb
+
+==========================================
+7.difference between linear and nonlinear regression models
+==========================================
+#q/a
+1- https://www.statisticshowto.datasciencecentral.com/nonlinear-regression/
+2- https://blog.minitab.com/blog/adventures-in-statistics-2/what-is-the-difference-between-linear-and-nonlinear-equations-in-regression-analysis
+3- https://statisticsbyjim.com/regression/difference-between-linear-nonlinear-regression-models/
+4- http://www.statistics4u.com/fundstat_eng/cc_linvsnonlin.html
+5- https://www.quora.com/What-is-nonlinear-regression-vs-linear-regression
+6- https://www.quora.com/How-would-you-explain-linear-and-nonlinear-regression-in-the-simplest-terms
+
+==========================================
+8.Cost Function vs gradient descent
+==========================================
+#-->
+
+Cost Function :
+- It is a function we can use to evaluate how well our algorithm maps the target estimate, 
+or how well our algorithm performs optimization problems.
+- measure the errors between predict values and the real values
+- something you want to minimize
+
+Gradient descent :
+- Gradient descent is a method for finding the minimum of a function of multiple variables. 
+So you can use gradient descent to minimize your cost function.
+- Gradient descent is an optimization algorithm used to find the values of parameters (coefficients) of a function (f) that minimizes a cost function (cost).
+#q/a
+0- https://medium.com/@rrfd/what-is-a-cost-function-gradient-descent-examples-with-python-16273460d634
+1- https://stackoverflow.com/questions/13623113/can-someone-explain-to-me-the-difference-between-a-cost-function-and-the-gradien
+2- https://www.freecodecamp.org/news/understanding-gradient-descent-the-most-popular-ml-algorithm-a66c0d97307f/
+3- https://machinelearningmastery.com/gradient-descent-for-machine-learning/
+
+==========================================
+9.understand Gradient Descent
+- Pseudocode for Gradient Descent
+- Variants of Gradient Descent
+- Math and code example
+==========================================
+#q/a
+1- https://www.freecodecamp.org/news/understanding-gradient-descent-the-most-popular-ml-algorithm-a66c0d97307f/
+2- https://ml-cheatsheet.readthedocs.io/en/latest/gradient_descent.html
+
+==========================================
+10.pure python code to implement regression
+==========================================
+#q/a
+1- https://ml-cheatsheet.readthedocs.io/en/latest/linear_regression.html
+2- https://github.com/sarvasvkulpati/LinearRegression
+==========================================
+11.sklearn code examples
+==========================================
+#q/a
+1- https://realpython.com/linear-regression-in-python/
+2- https://towardsdatascience.com/train-test-split-and-cross-validation-in-python-80b61beca4b6
+3- https://www.ritchieng.com/machine-learning-cross-validation/
+4- https://scikit-learn.org/stable/modules/classes.html
+5- https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html
+==========================================
+12.
+==========================================
+
+
+==========================================
+13.
+==========================================
